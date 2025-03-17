@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ZAid and I'm from Earth</p>
+<p align="left">My name is ZAID and I'm from Earth</p>
 
 ###
 
