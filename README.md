@@ -44,9 +44,9 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme:light)"  srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme:light)"  srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
+	  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
 	</picture>
 </p>
 
