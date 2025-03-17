@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "rainbow",
+        "type": "night-view",
         "fileName": "night.svg",
         "backgroundColor": "#00000f",
         "foregroundColor": "#eeeeff",
