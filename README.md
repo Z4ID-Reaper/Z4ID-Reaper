@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Zaid and I'm from Earth</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning systems engineering<br>🎯 Goals: achiving confidence<br>🎲 Fun fact: well every thing is connected</p>
 
 ###
 
