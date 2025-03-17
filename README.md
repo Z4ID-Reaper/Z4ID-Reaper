@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up? want to know me more?</h1>
+<P align="left">Hey 👋 What's up? want to know me more?</P>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<h2 align="left">I code with</h2>
+<P align="left">I code with</P>
 
 
 
