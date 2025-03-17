@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zaid and I'm from Earth</p>
+<p align="left">My name is ZAid and I'm from Earth</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning systems engineering<br>🎯 Goals: achiving confidence<br>🎲 Fun fact: well every thing is connected</p>
+<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning systems engineering<br>🎯 Goals: achieving confidence<br>🎲 Fun fact: Everything is connected</p>
 
 ###
 
@@ -42,12 +42,6 @@
 
 ###
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme:light)"  srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
-	  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output-3d-contrib/profile-season.svg" />
-	</picture>
-</p>
+<img src="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output/snake.svg" alt="Snake animation" />
 
 ###
