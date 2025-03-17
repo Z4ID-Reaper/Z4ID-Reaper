@@ -1,22 +1,22 @@
-<P align="left">Hey 👋 What's up? want to know me more?</P>
+<h1 align="left">Hey 👋 What's up? want to know me more?</h1>
 
+###
 
+<p align="left">My name is ZAid and I'm from Earth</p>
 
-<p align="left">My name is ZAID and I'm from Earth</p>
-
-
+###
 
 <h2 align="left">About me</h2>
 
-
+###
 
 <p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning systems engineering<br>🎯 Goals: achieving confidence<br>🎲 Fun fact: Everything is connected</p>
 
+###
 
+<h2 align="left">I code with</h2>
 
-<P align="left">I code with</P>
-
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -43,5 +43,12 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Z4ID-Reaper/Z4ID-Reaper/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Z4ID-Reaper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z4ID-Reaper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
