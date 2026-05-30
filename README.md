@@ -1,16 +1,10 @@
-<h1 align="left">Hey 👋 What's up? want to know me more?</h1>
+
+
+
 
 ###
 
-
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning systems engineering<br>🎯 Goals: achieving confidence<br>🎲 Fun fact: Everything is connected</p>
+<p align="left">🎲 Fun fact: Everything is connected</p>
 
 ###
 
