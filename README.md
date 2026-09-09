@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./frutiger-aero.gif" width="300" alt="Frutiger Aero" />
+  <img src="./xoxo-gossip-boys.gif" width="300" alt="Frutiger Aero" />
 </p>
 
 
