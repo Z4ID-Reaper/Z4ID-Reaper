@@ -2,61 +2,47 @@
   <img src="https://capsule-render.vercel.app/api?type=checkered&height=100&color=gradient&text=Hi%20There!" />
 </p>
 
-<p align="center">
-  <img src="./xoxo-gossip-boys.gif" width="700" alt="Frutiger Aero" />
-</p>
-
 <br>
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ ● ● ●    ~/zaid                                               │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ $ whoami                                                     │
-│ zaid                                                         │
-│                                                              │
-│ $ ./about                                                     │
-│                                                              │
-│ software engineering student                                 │
-│ systems / backend / infrastructure                            │
-│                                                              │
-│ BCA @ Chandigarh University                                  │
-│ graduating 2026                                              │
-│                                                              │
-│ $ ls interests/                                               │
-│                                                              │
-│ systems/   backend/   distributed-systems/                   │
-│ devops/    cloud/     machine-learning/                      │
-│                                                              │
-│ $ cat stack                                                   │
-│                                                              │
-│ Java  C++  Go  Rust  JavaScript  TypeScript                  │
-│ Node.js  React  Docker  Kubernetes  Terraform                │
-│ MySQL  MongoDB  Redis  Git                                   │
-│                                                              │
-│ $ cat learning                                                │
-│                                                              │
-│ system-design                                                 │
-│ distributed-systems                                          │
-│ kubernetes                                                    │
-│ terraform                                                     │
-│ V8 / runtime internals                                       │
-│                                                              │
-│ $ ls projects/                                                │
-│                                                              │
-│ student-fee-management/                                      │
-│ geopolitics-dashboard/                                       │
-│ open-source/                                                  │
-│                                                              │
-│ $ echo $FUN_FACT                                              │
-│                                                              │
-│ Everything is connected.                                     │
-│                                                              │
-│ $ █                                                          │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ ● ● ●    ~/zaid                                                                                              │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                              │
+│ $ whoami                                                                                                     │
+│ zaid                                                                                                         │
+│                                                                                                              │
+│ $ ./about                                                                                                    │
+│                                                                                                              │
+│ software engineering student                                                                                │
+│ systems / backend / infrastructure                                                                           │
+│ BCA @ Chandigarh University • graduating 2026                                                               │
+│                                                                                                              │
+│ $ ls interests/                                                                                              │
+│                                                                                                              │
+│ systems/     backend/     distributed-systems/     devops/     cloud/     machine-learning/                 │
+│                                                                                                              │
+│ $ cat stack                                                                                                  │
+│                                                                                                              │
+│ JavaScript     TypeScript     Node.js     React     Docker     Kubernetes     Terraform                     │
+│ MySQL         MongoDB       Redis       Git       GitHub                                                   │
+│                                                                                                              │
+│ $ cat learning                                                                                               │
+│                                                                                                              │
+│ system-design     distributed-systems     kubernetes     terraform     V8 / runtime internals              │
+│                                                                                                              │
+│ $ ls projects/                                                                                               │
+│                                                                                                              │
+│ student-fee-management/     credit-card-fraud-detection/     open-source/                                  │
+│                                                                                                              │
+│ $ echo $FUN_FACT                                                                                             │
+│                                                                                                              │
+│ Everything is connected.                                                                                     │
+│                                                                                                              │
+│ $ █                                                                                                          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
