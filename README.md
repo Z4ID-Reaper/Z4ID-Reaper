@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Checkered" />
+  <img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Hi There!" />
 </p>
-<img src="./frutiger-aero.gif" width="500" alt="Frutiger Aero">
+<img src="./frutiger-aero.gif" width="300" alt="Frutiger Aero">
 
 
 <p align="center">
