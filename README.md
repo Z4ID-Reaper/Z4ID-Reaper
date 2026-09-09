@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://tenor.com/view/frutiger-aero-gif-15065821079112111647">
-    <img src="./frutiger-aero.gif" width="500" alt="Frutiger Aero">
-  </a>
-</p>
+
+<img src="./frutiger-aero.gif" width="500" alt="Frutiger Aero">
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
