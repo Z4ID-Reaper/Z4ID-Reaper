@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Hi%20There!" />
+  <img src="https://capsule-render.vercel.app/api?type=checkered&height=100&color=gradient&text=Hi%20There!" />
 </p>
 
 <p align="center">
   <img src="./frutiger-aero.gif" width="300" alt="Frutiger Aero" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100" />
-</p>
 
 <p align="left">🎲 Fun fact: Everything is connected</p>
 
@@ -35,3 +32,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
