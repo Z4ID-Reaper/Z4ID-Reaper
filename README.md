@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+[![checkered](docs/samples/checkered.svg)](https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Hi%there!)
 <img src="./frutiger-aero.gif" width="500" alt="Frutiger Aero">
 
 
