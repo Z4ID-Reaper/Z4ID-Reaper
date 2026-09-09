@@ -1,4 +1,4 @@
-[![checkered](docs/samples/checkered.svg)](https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Hi%there!)
+[![checkered](docs/samples/checkered.svg)](https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Hi)
 <img src="./frutiger-aero.gif" width="500" alt="Frutiger Aero">
 
 
