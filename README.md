@@ -1,4 +1,3 @@
-<div class="tenor-gif-embed" data-postid="15065821079112111647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/frutiger-aero-gif-15065821079112111647">Frutiger Aero GIF</a>from <a href="https://tenor.com/search/frutiger+aero-gifs">Frutiger Aero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
