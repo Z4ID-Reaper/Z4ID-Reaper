@@ -1,5 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:00e5a0,100:7cffcb&height=120&section=header&text=ZAID&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="72%" valign="top">
+
+<div align="center">
+
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │ ● ● ●    ~/zaid                                                                                              │
@@ -10,26 +23,27 @@
 │                                                                                                              │
 │ $ ./about                                                                                                    │
 │                                                                                                              │
-│ software engineering student                                                                                │
+│ software engineering student                                                                                 │
 │ systems / backend / infrastructure                                                                           │
-│ BCA @ Chandigarh University • graduating 2026                                                               │
+│ BCA @ Chandigarh University • graduating 2026                                                                │
 │                                                                                                              │
 │ $ ls interests/                                                                                              │
 │                                                                                                              │
-│ systems/     backend/     distributed-systems/     devops/     cloud/     machine-learning/                 │
+│ systems/     backend/     distributed-systems/     devops/     cloud/     machine-learning/   music/         │
+│ art/         movies/                                                                                        │
 │                                                                                                              │
 │ $ cat stack                                                                                                  │
 │                                                                                                              │
-│ JavaScript     TypeScript     Node.js     React     Docker     Kubernetes     Terraform                     │
-│ MySQL         MongoDB       Redis       Git       GitHub                                                   │
+│ JavaScript     TypeScript     Node.js     React     Docker     Kubernetes     Terraform                      │
+│ MySQL         MongoDB       Redis       Git       GitHub                                                     │
 │                                                                                                              │
 │ $ cat learning                                                                                               │
 │                                                                                                              │
-│ system-design     distributed-systems     kubernetes     terraform     V8 / runtime internals              │
+│ system-design     distributed-systems     kubernetes     terraform     V8 / runtime internals                │
 │                                                                                                              │
 │ $ ls projects/                                                                                               │
 │                                                                                                              │
-│ student-fee-management/     credit-card-fraud-detection/     open-source/                                  │
+│ student-fee-management/     credit-card-fraud-detection/     open-source/                                    │
 │                                                                                                              │
 │ $ echo $FUN_FACT                                                                                             │
 │                                                                                                              │
@@ -40,6 +54,29 @@
 ```
 
 </div>
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<!-- ✦ FRUTIGER AERO GIF ✦ -->
+
+<img src="./frutiger-aero.gif" width="180px" alt="Frutiger Aero" />
+
+<br><br>
+
+<sub>☁️ everything is connected 🌐</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  ☁️　🌐　✦　🌊　✦　🌐　☁️
+</p>
 
 <br>
 
@@ -82,5 +119,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:00c6ff,50:00e5a0,100:7cffcb&height=100" width="100%" />
 </p>
